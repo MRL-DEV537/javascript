@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+
+main h1{
+    font-size: 3vh;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+}
+
+main form {
+    display: flex;
+    font-size: 4vh;
+    padding-top: 250px;
+    justify-content: center;
+}
+
+#agregar {
+    padding: 5vh;
+}
+
+#eliminarForm {
+    padding: 5vh;
+}
+
+#clientesDiv {
+    margin-left: 50vh;
+    display: flex;
+    border-radius: 50px;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 3vh;
+    width: 100vh;
+    height: 30vh;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: black;
+}
+
+.footer {
+    margin-top: 20vh;
+    height: 5vh;
+    display: flex;
+    background-color: black;
+    color: white;
+    align-items: center;
+    justify-content: center;
+}
+
+footer {
+}
